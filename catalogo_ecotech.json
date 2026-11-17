@@ -1,0 +1,18 @@
+[
+    {
+        "tipo": "PanelSolar",
+        "codigo": "P001",
+        "nombre": "Panel Solar Eco",
+        "stock": 10,
+        "potencia_w": 400,
+        "eficiencia_pct": 20.5
+    },
+    {
+        "tipo": "PanelSolar",
+        "codigo": "P002",
+        "nombre": "Panel Solar Plus",
+        "stock": 5,
+        "potencia_w": 550,
+        "eficiencia_pct": 22.0
+    }
+]
